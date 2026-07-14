@@ -1,6 +1,8 @@
 # Rever-VR-Mod-Installer
 
-![Rever VR Mod Installer](assets/logo-rever-vr-mod-installer.png)
+<p align="center">
+  <img src="assets/rever-vr-mod-installer-icon.png" width="220">
+</p>
 
 Rever VR Mod Installer
 
