@@ -1,7 +1,7 @@
 # Rever-VR-Mod-Installer
 
 </> Markdown
-![Rever VR Mod Installer](assets/Logo Rever Vr Mod Installer.png)
+![Rever VR Mod Installer](assets/Logo Rever VR Mod Installer.png)
 
 Rever VR Mod Installer
 
