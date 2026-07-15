@@ -66,6 +66,22 @@ Doom 3 y sus contenidos compatibles
 
 La aplicación seguirá ampliándose con nuevos juegos, perfiles y herramientas mediante su sistema interno de actualizaciones.
 
+<p align="center">
+  <img src="assets/Captura-1.png" width="320">
+</p>
+
+<p align="center">
+  <img src="assets/Captura-2.png" width="320">
+</p>
+
+<p align="center">
+  <img src="assets/Captura-3.png" width="320">
+</p>
+
+<p align="center">
+  <img src="assets/Captura-4.png" width="320">
+</p>
+
 Requisitos
 
 Para PCVR
